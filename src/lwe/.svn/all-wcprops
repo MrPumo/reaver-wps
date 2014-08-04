@@ -1,0 +1,293 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/3/trunk/src/lwe
+END
+DISTRIBUTIONS.txt
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/src/lwe/DISTRIBUTIONS.txt
+END
+iwlist.8
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/3/trunk/src/lwe/iwlist.8
+END
+iwspy.8
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/3/trunk/src/lwe/iwspy.8
+END
+iwpriv.8
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/3/trunk/src/lwe/iwpriv.8
+END
+iwconfig.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/3/trunk/src/lwe/iwconfig.c
+END
+iwevent.8
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/3/trunk/src/lwe/iwevent.8
+END
+sample_enc.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/3/trunk/src/lwe/sample_enc.c
+END
+iftab.5
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/3/trunk/src/lwe/iftab.5
+END
+sample_pm.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/3/trunk/src/lwe/sample_pm.c
+END
+wireless.7
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/3/trunk/src/lwe/wireless.7
+END
+wireless.20.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/trunk/src/lwe/wireless.20.h
+END
+wireless.21.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/trunk/src/lwe/wireless.21.h
+END
+wireless.22.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/trunk/src/lwe/wireless.22.h
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/3/trunk/src/lwe/INSTALL
+END
+ifrename.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/3/trunk/src/lwe/ifrename.c
+END
+19-udev-ifrename.rules
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/src/lwe/19-udev-ifrename.rules
+END
+iwmulticall.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/trunk/src/lwe/iwmulticall.c
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/3/trunk/src/lwe/COPYING
+END
+iwconfig.8
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/3/trunk/src/lwe/iwconfig.8
+END
+macaddr.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/3/trunk/src/lwe/macaddr.c
+END
+CHANGELOG.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/3/trunk/src/lwe/CHANGELOG.h
+END
+iwgetid.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/3/trunk/src/lwe/iwgetid.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/3/trunk/src/lwe/Makefile
+END
+IFRENAME-VS-XXX.txt
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/src/lwe/IFRENAME-VS-XXX.txt
+END
+iwlib.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/3/trunk/src/lwe/iwlib.c
+END
+ifrename.8
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/3/trunk/src/lwe/ifrename.8
+END
+sample_priv_addr.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/src/lwe/sample_priv_addr.c
+END
+iwspy.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/3/trunk/src/lwe/iwspy.c
+END
+iwlist.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/3/trunk/src/lwe/iwlist.c
+END
+iwlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/3/trunk/src/lwe/iwlib.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/3/trunk/src/lwe/README
+END
+udev.import_devpath.diff
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/src/lwe/udev.import_devpath.diff
+END
+HOTPLUG.txt
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/3/trunk/src/lwe/HOTPLUG.txt
+END
+iwpriv.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/3/trunk/src/lwe/iwpriv.c
+END
+wireless.10.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/trunk/src/lwe/wireless.10.h
+END
+iwevent.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/3/trunk/src/lwe/iwevent.c
+END
+iwgetid.8
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/3/trunk/src/lwe/iwgetid.8
+END
+README.fr
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/3/trunk/src/lwe/README.fr
+END
+wireless.11.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/trunk/src/lwe/wireless.11.h
+END
+wireless.12.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/trunk/src/lwe/wireless.12.h
+END
+wireless.13.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/trunk/src/lwe/wireless.13.h
+END
+wireless.14.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/trunk/src/lwe/wireless.14.h
+END
+wireless.15.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/trunk/src/lwe/wireless.15.h
+END
+wireless.16.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/trunk/src/lwe/wireless.16.h
+END
+wireless.17.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/trunk/src/lwe/wireless.17.h
+END
+PCMCIA.txt
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/3/trunk/src/lwe/PCMCIA.txt
+END
+wireless.18.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/trunk/src/lwe/wireless.18.h
+END
+wireless.19.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/trunk/src/lwe/wireless.19.h
+END

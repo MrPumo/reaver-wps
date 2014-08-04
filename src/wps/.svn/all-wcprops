@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/94/trunk/src/wps
+END
+wps_attr_build.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/37/trunk/src/wps/wps_attr_build.c
+END
+wps_i.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/91/trunk/src/wps/wps_i.h
+END
+wps_dev_attr.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3/trunk/src/wps/wps_dev_attr.h
+END
+wps_ufd.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/3/trunk/src/wps/wps_ufd.c
+END
+wps.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/91/trunk/src/wps/wps.c
+END
+wps_registrar.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/94/trunk/src/wps/wps_registrar.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/3/trunk/src/wps/Makefile
+END
+wps_attr_parse.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/src/wps/wps_attr_parse.c
+END
+wps_enrollee.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3/trunk/src/wps/wps_enrollee.c
+END
+wps.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/3/trunk/src/wps/wps.h
+END
+wps_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/3/trunk/src/wps/wps_defs.h
+END
+wps_dev_attr.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3/trunk/src/wps/wps_dev_attr.c
+END
+wps_common.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/3/trunk/src/wps/wps_common.c
+END
+wps_attr_process.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/src/wps/wps_attr_process.c
+END

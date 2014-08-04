@@ -1,0 +1,395 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/43/trunk/src/crypto
+END
+crypto_none.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/src/crypto/crypto_none.c
+END
+md5-internal.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/src/crypto/md5-internal.c
+END
+dh_group5.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3/trunk/src/crypto/dh_group5.h
+END
+sha1-pbkdf2.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/src/crypto/sha1-pbkdf2.c
+END
+fips_prf_gnutls.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/src/crypto/fips_prf_gnutls.c
+END
+sha1-internal.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/src/crypto/sha1-internal.c
+END
+crypto_libtomcrypt.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/src/crypto/crypto_libtomcrypt.c
+END
+sha1_i.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/3/trunk/src/crypto/sha1_i.h
+END
+crypto_cryptoapi.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/src/crypto/crypto_cryptoapi.c
+END
+fips_prf_openssl.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/src/crypto/fips_prf_openssl.c
+END
+aes-internal-dec.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/src/crypto/aes-internal-dec.c
+END
+md5-non-fips.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/src/crypto/md5-non-fips.c
+END
+aes.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/3/trunk/src/crypto/aes.h
+END
+aes-wrap.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/trunk/src/crypto/aes-wrap.c
+END
+sha256-internal.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/src/crypto/sha256-internal.c
+END
+fips_prf_nss.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/src/crypto/fips_prf_nss.c
+END
+sha1.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/3/trunk/src/crypto/sha1.c
+END
+tls_internal.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/src/crypto/tls_internal.c
+END
+md4-internal.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/src/crypto/md4-internal.c
+END
+aes-ctr.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/3/trunk/src/crypto/aes-ctr.c
+END
+sha1.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/3/trunk/src/crypto/sha1.h
+END
+md5_i.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/3/trunk/src/crypto/md5_i.h
+END
+tls_openssl.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/src/crypto/tls_openssl.c
+END
+sha1-tprf.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3/trunk/src/crypto/sha1-tprf.c
+END
+crypto_internal-modexp.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/src/crypto/crypto_internal-modexp.c
+END
+sha256.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/3/trunk/src/crypto/sha256.c
+END
+crypto_gnutls.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/src/crypto/crypto_gnutls.c
+END
+sha256.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/3/trunk/src/crypto/sha256.h
+END
+tls_none.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/trunk/src/crypto/tls_none.c
+END
+crypto_openssl.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/src/crypto/crypto_openssl.c
+END
+crypto_internal-cipher.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/src/crypto/crypto_internal-cipher.c
+END
+tls_nss.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/3/trunk/src/crypto/tls_nss.c
+END
+des_i.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/3/trunk/src/crypto/des_i.h
+END
+dh_groups.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/43/trunk/src/crypto/dh_groups.c
+END
+dh_groups.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3/trunk/src/crypto/dh_groups.h
+END
+crypto_nss.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3/trunk/src/crypto/crypto_nss.c
+END
+fips_prf_internal.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/src/crypto/fips_prf_internal.c
+END
+aes_wrap.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/trunk/src/crypto/aes_wrap.h
+END
+tls.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/3/trunk/src/crypto/tls.h
+END
+ms_funcs.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/trunk/src/crypto/ms_funcs.c
+END
+tls_schannel.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/src/crypto/tls_schannel.c
+END
+aes-unwrap.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3/trunk/src/crypto/aes-unwrap.c
+END
+ms_funcs.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/trunk/src/crypto/ms_funcs.h
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/trunk/src/crypto/.gitignore
+END
+des-internal.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/src/crypto/des-internal.c
+END
+crypto.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/3/trunk/src/crypto/crypto.h
+END
+rc4.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/3/trunk/src/crypto/rc4.c
+END
+tls_gnutls.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3/trunk/src/crypto/tls_gnutls.c
+END
+crypto_internal-rsa.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/src/crypto/crypto_internal-rsa.c
+END
+fips_prf_cryptoapi.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/src/crypto/fips_prf_cryptoapi.c
+END
+sha1-tlsprf.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/src/crypto/sha1-tlsprf.c
+END
+aes-omac1.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3/trunk/src/crypto/aes-omac1.c
+END
+crypto_internal.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/src/crypto/crypto_internal.c
+END
+milenage.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/trunk/src/crypto/milenage.c
+END
+aes-internal.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/src/crypto/aes-internal.c
+END
+aes-eax.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/3/trunk/src/crypto/aes-eax.c
+END
+aes-internal-enc.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/src/crypto/aes-internal-enc.c
+END
+aes_i.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/3/trunk/src/crypto/aes_i.h
+END
+md5.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/3/trunk/src/crypto/md5.c
+END
+aes-encblock.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/src/crypto/aes-encblock.c
+END
+milenage.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/trunk/src/crypto/milenage.h
+END
+md5.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/3/trunk/src/crypto/md5.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/3/trunk/src/crypto/Makefile
+END
+dh_group5.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3/trunk/src/crypto/dh_group5.c
+END
+aes-cbc.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/3/trunk/src/crypto/aes-cbc.c
+END

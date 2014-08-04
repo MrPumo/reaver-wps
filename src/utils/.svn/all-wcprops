@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/68/trunk/src/utils
+END
+uuid.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/3/trunk/src/utils/uuid.c
+END
+ip_addr.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/3/trunk/src/utils/ip_addr.h
+END
+uuid.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/3/trunk/src/utils/uuid.h
+END
+os_internal.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3/trunk/src/utils/os_internal.c
+END
+eloop.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/3/trunk/src/utils/eloop.c
+END
+eloop.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/3/trunk/src/utils/eloop.h
+END
+os.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/3/trunk/src/utils/os.h
+END
+build_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/src/utils/build_config.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/3/trunk/src/utils/Makefile
+END
+wpa_debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/68/trunk/src/utils/wpa_debug.c
+END
+os_none.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/3/trunk/src/utils/os_none.c
+END
+wpa_debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/trunk/src/utils/wpa_debug.h
+END
+radiotap.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/3/trunk/src/utils/radiotap.c
+END
+radiotap.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/3/trunk/src/utils/radiotap.h
+END
+state_machine.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/src/utils/state_machine.h
+END
+includes.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/3/trunk/src/utils/includes.h
+END
+list.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/3/trunk/src/utils/list.h
+END
+wpabuf.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/3/trunk/src/utils/wpabuf.c
+END
+os_unix.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/3/trunk/src/utils/os_unix.c
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/3/trunk/src/utils/.gitignore
+END
+base64.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/3/trunk/src/utils/base64.c
+END
+pcsc_funcs.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3/trunk/src/utils/pcsc_funcs.c
+END
+common.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/3/trunk/src/utils/common.c
+END
+wpabuf.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/3/trunk/src/utils/wpabuf.h
+END
+base64.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/3/trunk/src/utils/base64.h
+END
+pcsc_funcs.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3/trunk/src/utils/pcsc_funcs.h
+END
+eloop_win.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/trunk/src/utils/eloop_win.c
+END
+radiotap_iter.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/src/utils/radiotap_iter.h
+END
+eloop_none.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3/trunk/src/utils/eloop_none.c
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/3/trunk/src/utils/common.h
+END
+trace.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/3/trunk/src/utils/trace.c
+END
+ip_addr.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/3/trunk/src/utils/ip_addr.c
+END
+os_win32.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/3/trunk/src/utils/os_win32.c
+END
+trace.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/3/trunk/src/utils/trace.h
+END
